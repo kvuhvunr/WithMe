@@ -5,7 +5,7 @@ const GlobalStyles = createGlobalStyle`
   ${reset}
 
   * {
-    box-sizing: border-box;
+    box-sizing: border-box;;
   }
 
   table {
