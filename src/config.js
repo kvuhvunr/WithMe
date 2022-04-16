@@ -6,7 +6,10 @@ const API = {
   Point: `${BASE_URL}/users/mypage/point`,
   Review: `${BASE_URL}/users/mypage/review`,
   Productlist: `${BASE_URL}/places/place`,
-  Product: `${BASE_URL}/places/`,
+  Product: `${BASE_URL}/places/placeinformation`,
+  Placehost: `${BASE_URL}/places/placehostinformation`,
+  Placereview: `${BASE_URL}/places/placereviewlist`,
+  Placereservation: `${BASE_URL}/places/placereservation`,
 };
 
 export default API;

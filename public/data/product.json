@@ -1,0 +1,22 @@
+{
+  "id": "1",
+  "title": "비행독서",
+  "subtitle": "핸드폰은 비행모드, 우리들은 독서모드",
+  "running_date": "2022.05.03",
+  "location": "서울특별시 강남구 테헤란로",
+  "max_visitor": "5",
+  "running_time": "3",
+  "price": "30000",
+  "preparation": "다름을 인정하는 마음",
+  "host": {
+    "host_nickname": "노도현",
+    "host_introduction": "안녕하세요, 저는 오늘 맥주마시고 자용"
+  },
+  "review_list": [
+    {
+      "nickname": "세영",
+      "content": "너무 재밌고 행복했어요!",
+      "running_date": "2022.03.01"
+    }
+  ]
+}
