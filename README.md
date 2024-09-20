@@ -65,7 +65,7 @@
     <td align="center">
       <a href="https://github.com/rxxdo"
         ><img
-          src="https://avatars.githubusercontent.com/rxxdo"
+          src="https://avatars.githubusercontent.com/kvuhvunr"
           width="100px;"
           alt=""
         /><br /><sub><b>노규현</b></sub></a
